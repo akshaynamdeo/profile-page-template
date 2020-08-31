@@ -1,0 +1,18 @@
+.cover {
+  background-image: url(assets/bg.jpg);
+  background-size: cover;
+}
+.cover .cover-content {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.nav-tabs .active {
+  border-bottom: 3px solid #0062cc !important;
+}
+.hobby li {
+  width: 33.33%;
+}
+.exp-row p {
+  text-indent: 25px;
+  font-size: 1rem;
+}
+
